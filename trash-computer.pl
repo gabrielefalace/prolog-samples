@@ -1,3 +1,5 @@
+// example: ?- trash(myasus).
+
 broken(myasus, cpu).
 broken(myasus, motherboard).
 doesNotStart(myHp).
